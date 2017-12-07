@@ -6,35 +6,56 @@ Thomas Volk
 
 ---
 
+## Genetic Algorithm
+
+Genetic Algorithms were invented to mimic some of the processes observed in natural evolution.
+
+---
+
 ## What is a Gene?
 
 ![genes](De-Gene.png)
+
+---
 
 ## What is Mutation?
 
 ![mutation](mutation.jpeg)
 
+---
+
 ## What is crossing over?
 
 ![crossingover](crossingover.jpeg)
 
+---
+
 ## Genetic Algorithm Requirements
 
-* Es muss relativ einfach sein eine potentiell gute Lösung von einer schlechteren zu unterscheiden
+* It must be easy to determine between a good and bad solution
 
-* Eine potentielle Lösung muss sich in unabhängige Teile zerlegen lassen
+* A solution must consists of small parts
 
-* Es muss nicht immer die optimal Lösung gefunden werden, eine gute Lösung kann genügen 
+* A good solution instead of an optimal solution can be enough
+
+---
+
+## Genetic Algorithm Workflow
 
 ![workflow](workflow.gif)
 
+---
 
 # Appendix
+
+---
 
 ## Links
 
 * the example: https://github.com/thomasvolk/genetic-algorithm-example
 * JGAP: http://jgap.sourceforge.net/
+
+---
 
 ## Creating Slides
 
