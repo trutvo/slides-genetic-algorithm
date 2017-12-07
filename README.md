@@ -42,7 +42,7 @@ Genetic Algorithms were invented to mimic some of the processes observed in natu
 
 ## Genetic Algorithm Workflow
 
-![workflow](workflow.gif)
+<a href="url"><img src="workflow.gif" align="left" height="400" ></a>
 
 ---
 
