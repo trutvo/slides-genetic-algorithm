@@ -32,11 +32,11 @@ Genetic Algorithms were invented to mimic some of the processes observed in natu
 
 ## Genetic Algorithm Requirements
 
-* It must be easy to determine between a good and bad solution
+* It must be easy to differentiate between a good and bad solution
 
 * A solution must consists of small parts
 
-* A good solution instead of an optimal solution can be enough
+* A nearly optimal solution can be enough 
 
 ---
 
